@@ -14,7 +14,7 @@ const GalleryImages = ({ children, render }) => {
             left: 0,
             behavior: "smooth",
           }),
-        500
+        1000
       );
     }
   });
