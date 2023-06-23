@@ -1,9 +1,9 @@
 {
-  "name": "react-hw-04-image-finder",
+  "name": "goit-react-hw-04-image-finder",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "hostname": "https://damanosalvag.github.io/react-hw-04-image-finder/",
+  "hostname": "https://damanosalvag.github.io/goit-react-hw-04-image-finder/",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",
